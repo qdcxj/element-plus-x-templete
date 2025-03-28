@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="https://cdn.element-plus-x.com/demo.webp" calss="element-plus-x-bubble" />&emsp;
+<img src="https://github.com/qdcxj/element-plus-x-templete/blob/main/src/assets/screenshot-20250328-112938.png" calss="element-plus-x-bubble" />&emsp;
 </div>
 
 
@@ -19,8 +19,8 @@ English | 简体中文
 | ------------ | ------------------------------------------------------------ |
 | **element-plus-x文档**     | [📖 开发文档](https://element-plus-x.com)                     |
 | **element-plus-x在线演示** | [👁️ 在线预览](https://v.element-plus-x.com)                   |
-| **代码仓库** | [🐙 GitHub]()    |
-| **问题反馈** | [🐛 提交 Bug]() |
+| **代码仓库** | [🐙 GitHub](https://github.com/qdcxj/element-plus-x-templete)    |
+| **问题反馈** | [🐛 提交 Bug](https://github.com/qdcxj/element-plus-x-templete/issues) |
 
 ## 🛠️ 核心特性
 - ✨ **企业级 AI 模板**：企业级通用的ai模板
